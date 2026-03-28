@@ -2,9 +2,15 @@
 
 Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my progress in database management and **Data Analytics**.
 
-## 📂 Progress Log
-* **Day 1:** Database & Table Creation, Data Insertion, and basic DDL/DML.
-* **Day 2:** (Coming Soon: Data Querying & Filtering)
+### 🗓️ Day 1: The Foundation
+* **Goal:** Database and table creation with initial data population.
+* **Key Commands:** `CREATE DATABASE`, `CREATE TABLE`, `INSERT INTO`.
+* **Takeaway:** Learned to use `SERIAL PRIMARY KEY` for auto-incrementing IDs in PostgreSQL.
+
+### 🗓️ Day 2: Schema Refinement & Cleanup
+* **Goal:** Modifying existing table structures and removing specific data.
+* **Key Commands:** `DELETE`, `ALTER TABLE ... DROP COLUMN`, `NOT NULL` constraints.
+* **Takeaway:** Practiced "Safe Deletion" using `WHERE` clauses and managing schema changes as requirements evolve.
 
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
