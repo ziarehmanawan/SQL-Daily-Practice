@@ -12,6 +12,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `DELETE`, `ALTER TABLE ... DROP COLUMN`, `NOT NULL` constraints.
 * **Takeaway:** Practiced "Safe Deletion" using `WHERE` clauses and managing schema changes as requirements evolve.
 
+### 🗓️ Day 3: Data Integrity & Constraints
+* **Goal:** Building a robust user table with validation rules.
+* **Key Commands:** `UNIQUE`, `CHECK`, `DEFAULT`, `TIMESTAMP`.
+* **Takeaway:** Learned how to enforce business rules (like age limits) directly at the database level to maintain high-quality data.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
