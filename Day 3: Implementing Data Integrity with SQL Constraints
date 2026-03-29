@@ -11,7 +11,7 @@ CREATE TABLE users (
 INSERT INTO users (user_id, name, email, age) 
 VALUES (1, 'John Doe', 'john.doe@example.com', 25);
 
--- INSERTING DATA INTO TABLE 2
+-- INSERTING SECOND RECORD INTO users TABLE
 INSERT INTO users (user_id, name, email, age) 
 VALUES (2, 'John Doe', 'john1.doe@example.com', 19);
 
