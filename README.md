@@ -17,6 +17,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `UNIQUE`, `CHECK`, `DEFAULT`, `TIMESTAMP`.
 * **Takeaway:** Learned how to enforce business rules (like age limits) directly at the database level to maintain high-quality data.
 
+### 🗓️ Day 4: Data Transformation & Pattern Matching
+* **Goal:** Mastering the `UPDATE` command for complex data scenarios.
+* **Key Commands:** `UPDATE`, `SET`, `LIKE`, `ORDER BY`.
+* **Takeaway:** Learned how to perform bulk updates using logic rather than just individual IDs, which is essential for managing large datasets in Data Analytics.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
