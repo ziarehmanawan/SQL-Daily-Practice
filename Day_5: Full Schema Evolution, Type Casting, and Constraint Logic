@@ -41,8 +41,7 @@ ALTER TABLE user2
 ALTER COLUMN age TYPE SMALLINT;
 
 -- TO add a NOT NULL CONSTRAINT to city column
-ALTER TABLE user2
-ALTER TABLE column age SET NOT NULL;
+ALTER TABLE user2 ALTER COLUMN age SET NOT NULL;
 
 -- Adding CHECK constraint to age column
 ALTER TABLE user2
