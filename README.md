@@ -19,6 +19,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 
 ### 🗓️ Day 4: Data Transformation & Pattern Matching
 * **Goal:** Mastering the `UPDATE` command for complex data scenarios.
+
+### 🗓️ Day 5: Schema Evolution & Data Optimization
+* **Goal:** Moving beyond basic tables to managing a live, evolving database schema.
+* **Key Commands:** `RENAME TO`, `ALTER COLUMN TYPE`, `ADD CONSTRAINT`, `SET NOT NULL`.
+* **Takeaway:** Learned how to safely change data types and rename structures without losing data, which is a critical skill for Database Administration (DBA).
 * **Key Commands:** `UPDATE`, `SET`, `LIKE`, `ORDER BY`.
 * **Takeaway:** Learned how to perform bulk updates using logic rather than just individual IDs, which is essential for managing large datasets in Data Analytics.
 
