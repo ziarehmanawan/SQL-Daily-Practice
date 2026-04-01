@@ -27,6 +27,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `UPDATE`, `SET`, `LIKE`, `ORDER BY`.
 * **Takeaway:** Learned how to perform bulk updates using logic rather than just individual IDs, which is essential for managing large datasets in Data Analytics.
 
+### 🗓️ Day 6: SQL Assignment & Business Logic
+* **Goal:** Solving real-world scenarios through structured SQL queries.
+* **Key Skills:** Arithmetic updates, date filtering, type casting (`USING` clause), and schema renaming.
+* **Takeaway:** Practiced the `USING` clause for PostgreSQL type conversion, which is essential when changing column types that already contain data.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
