@@ -19,6 +19,8 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 
 ### 🗓️ Day 4: Data Transformation & Pattern Matching
 * **Goal:** Mastering the `UPDATE` command for complex data scenarios.
+* **Key Commands:** `UPDATE`, `SET`, `LIKE`, `ORDER BY`.
+* **Takeaway:** Learned how to perform bulk updates using logic rather than just individual IDs, which is essential for managing large datasets in Data Analytics.
 
 ### 🗓️ Day 5: Schema Evolution & Data Optimization
 * **Goal:** Moving beyond basic tables to managing a live, evolving database schema.
