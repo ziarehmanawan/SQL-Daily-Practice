@@ -1,0 +1,22 @@
+-- DROPING TABLE employee2 if Exists TO CREATE A NEW table named employee2
+DROP TABLE IF EXISTS employee2;
+
+-- CREATING TABLE employee2 to import CSV FILE into that Table
+CREATE TABLE employee2(
+        employee_id INT PRIMARY KEY,
+        first_name VARCHAR(50) NOT NULL,
+        last_name VARCHAR(50) NOT NULL,
+        email VARCHAR(50),
+        department VARCHAR(50),
+        salary NUMERIC(10,2),
+        age INT
+);
+
+SELECT * FROM employee2;
+
+-- IMPORT CSV FILE INTO SQL DATABASE
+COPY
+employee2(employee_id, first_name, last_name, email, department, salary, age)
+FROM 'C:\sql_data\employee_data.csv'
+DELIMITER ','
+CSV HEADER;
