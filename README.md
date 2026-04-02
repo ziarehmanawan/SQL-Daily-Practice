@@ -34,6 +34,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Skills:** Arithmetic updates, date filtering, type casting (`USING` clause), and schema renaming.
 * **Takeaway:** Practiced the `USING` clause for PostgreSQL type conversion, which is essential when changing column types that already contain data.
 
+### 🗓️ Day 7: Data Import & ETL Basics
+* **Goal:** Moving from manual entry to automated bulk data loading.
+* **Key Commands:** `COPY FROM`, `DELIMITER`, `CSV HEADER`.
+* **Takeaway:** Mastered the ability to import external datasets (CSV), which is the first step in any professional Data Analytics project.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
