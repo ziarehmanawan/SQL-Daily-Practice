@@ -39,6 +39,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `COPY FROM`, `DELIMITER`, `CSV HEADER`.
 * **Takeaway:** Mastered the ability to import external datasets (CSV), which is the first step in any professional Data Analytics project.
 
+### 🗓️ Day 8: Calculations & Column Aliasing
+* **Goal:** Using SQL as a calculator to generate new insights from raw data.
+* **Key Commands:** `AS` (Aliasing), Arithmetic Operators (`*`, `+`).
+* **Takeaway:** Learned how to create virtual columns for reports (like Annual Salary and Bonuses) without modifying the original table data.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
