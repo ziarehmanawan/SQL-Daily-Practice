@@ -44,6 +44,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `AS` (Aliasing), Arithmetic Operators (`*`, `+`).
 * **Takeaway:** Learned how to create virtual columns for reports (like Annual Salary and Bonuses) without modifying the original table data.
 
+### 🗓️ Day 9: Comparison & Logical Operators
+* **Goal:** Filtering datasets to answer specific business questions.
+* **Key Commands:** `WHERE`, `AND`, `OR`, `NOT`, `!=`, `>=`.
+* **Takeaway:** Learned how to combine multiple conditions to narrow down results, which is critical for finding specific insights in large databases.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
