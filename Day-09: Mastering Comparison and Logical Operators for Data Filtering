@@ -1,0 +1,29 @@
+SELECT * FROM employee2;
+
+-- 1: Comparison Operators in SQL
+-- matches age 30
+SELECT * FROM employee2
+WHERE age=30;
+
+--matches all except 30
+SELECT * FROM employee2
+WHERE age!=30;
+
+-- salary greather than 50000
+SELECT * FROM employee2
+WHERE salary>50000;
+
+-- 2: LOGICAL OPERATORS IN SQL
+SELECT * FROM empployee2;
+
+--USING AND OPERATORS
+SELECT * FROM employee2
+WHERE age>=60 AND salary>=90000; 
+
+--USING OR OPERTORS
+SELECT * FROM employee2
+WHERE age>=60 OR salary>=100000; 
+
+--USING NOT
+SELECT * FROM employee2
+WHERE NOT(department= 'IT');
