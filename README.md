@@ -49,6 +49,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `WHERE`, `AND`, `OR`, `NOT`, `!=`, `>=`.
 * **Takeaway:** Learned how to combine multiple conditions to narrow down results, which is critical for finding specific insights in large databases.
 
+### 🗓️ Day 10: Range, Set, and Pattern Filtering
+* **Goal:** Writing cleaner, more efficient queries using specialized SQL operators.
+* **Key Commands:** `BETWEEN`, `IN`, `LIKE`.
+* **Takeaway:** Learned how to replace long `OR` chains with `IN` and how to find partial text matches with `%` wildcards.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
