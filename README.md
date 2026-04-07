@@ -54,6 +54,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `BETWEEN`, `IN`, `LIKE`.
 * **Takeaway:** Learned how to replace long `OR` chains with `IN` and how to find partial text matches with `%` wildcards.
 
+### 🗓️ Day 11: Data Quality & Top-N Analysis
+* **Goal:** Finding missing data and ranking records by value.
+* **Key Commands:** `IS NULL`, `ORDER BY`, `LIMIT`, `DISTINCT`.
+* **Takeaway:** Learned how to perform "Cleanliness Checks" on datasets and how to extract the most important records (like top earners) for business reports.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
