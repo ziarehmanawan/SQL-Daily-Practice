@@ -59,6 +59,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `IS NULL`, `ORDER BY`, `LIMIT`, `DISTINCT`.
 * **Takeaway:** Learned how to perform "Cleanliness Checks" on datasets and how to extract the most important records (like top earners) for business reports.
 
+### 🗓️ Day 12: Set Operations & Multi-Table Analysis
+* **Goal:** Combining and comparing data from two different tables.
+* **Key Commands:** `UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT`.
+* **Takeaway:** Learned how to perform mathematical set operations on data, which is essential for tracking changes over time (like student enrollment year-over-year).
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
