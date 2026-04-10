@@ -64,6 +64,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT`.
 * **Takeaway:** Learned how to perform mathematical set operations on data, which is essential for tracking changes over time (like student enrollment year-over-year).
 
+### 🗓️ Day 13: Aggregate Functions & Data Summarization
+* **Goal:** Extracting "Big Picture" insights from raw datasets.
+* **Key Commands:** `SUM()`, `COUNT()`, `AVG()`, `MAX()`, `MIN()`.
+* **Takeaway:** Learned how to perform calculations across entire columns to answer business questions like "What is our total stock?" or "What is the average price of recent arrivals?"
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
