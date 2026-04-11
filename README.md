@@ -69,6 +69,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `SUM()`, `COUNT()`, `AVG()`, `MAX()`, `MIN()`.
 * **Takeaway:** Learned how to perform calculations across entire columns to answer business questions like "What is our total stock?" or "What is the average price of recent arrivals?"
 
+### 🗓️ Day 14: String Functions & Text Formatting
+* **Goal:** Cleaning and reformatting text data for better presentation.
+* **Key Commands:** `CONCAT()`, `SUBSTRING()`, `REPLACE()`, `TRIM()`, `UPPER()`, `LOWER()`.
+* **Takeaway:** Learned how to manipulate text strings, which is vital for cleaning "dirty" data and preparing professional-looking reports.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
