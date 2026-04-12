@@ -74,6 +74,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `CONCAT()`, `SUBSTRING()`, `REPLACE()`, `TRIM()`, `UPPER()`, `LOWER()`.
 * **Takeaway:** Learned how to manipulate text strings, which is vital for cleaning "dirty" data and preparing professional-looking reports.
 
+### 🗓️ Day 15: Temporal Functions & Date Logic
+* **Goal:** Managing and analyzing time-based data within the database.
+* **Key Commands:** `EXTRACT()`, `AGE()`, `TO_CHAR()`, `INTERVAL`, `DATE_TRUNC()`.
+* **Takeaway:** Learned how to calculate product age and project future dates, which is essential for inventory management and time-series forecasting.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
