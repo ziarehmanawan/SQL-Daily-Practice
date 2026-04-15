@@ -84,6 +84,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `COALESCE()`, `IN`, `NOT IN`, `ALTER TABLE`.
 * **Takeaway:** Learned how to provide "fallback" values for reporting, ensuring that business-critical fields (like price) always display a value even when specific data is missing.
 
+### 🗓️ Day 18: Window Functions & Analytical Querying
+* **Goal:** Performing complex calculations across sets of rows without collapsing the result set.
+* **Key Commands:** `DENSE_RANK()`, `SUM() OVER()`, `PARTITION BY`.
+* **Takeaway:** Learned how to rank items within groups and calculate running totals, which are essential for sales leaderboards and financial trend analysis.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
