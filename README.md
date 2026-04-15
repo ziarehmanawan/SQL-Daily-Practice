@@ -79,6 +79,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `EXTRACT()`, `AGE()`, `TO_CHAR()`, `INTERVAL`, `DATE_TRUNC()`.
 * **Takeaway:** Learned how to calculate product age and project future dates, which is essential for inventory management and time-series forecasting.
 
+### 🗓️ Day 17: Null Handling & Data Resiliency
+* **Goal:** Managing missing data using `COALESCE` and targeted bulk updates.
+* **Key Commands:** `COALESCE()`, `IN`, `NOT IN`, `ALTER TABLE`.
+* **Takeaway:** Learned how to provide "fallback" values for reporting, ensuring that business-critical fields (like price) always display a value even when specific data is missing.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
