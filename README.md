@@ -94,6 +94,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `FULL OUTER JOIN`, `CROSS JOIN`, `SELF JOIN`.
 * **Takeaway:** Learned how to bridge data gaps between tables and how to compare rows within the same table to find peer relationships.
 
+### 🗓️ Day 20: Case Study - Online Bookstore Management
+* **Goal:** Building a full-scale relational database from scratch.
+* **Key Skills:** Schema Design, Foreign Keys, ETL (CSV Import), Multi-table Joins, and Business Intelligence Querying.
+* **Project Highlight:** Created a comprehensive stock-tracking system that calculates remaining inventory after orders.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
