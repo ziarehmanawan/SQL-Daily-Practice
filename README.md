@@ -89,6 +89,11 @@ Welcome to my daily SQL journey! As a **BS IT student**, I am documenting my pro
 * **Key Commands:** `DENSE_RANK()`, `SUM() OVER()`, `PARTITION BY`.
 * **Takeaway:** Learned how to rank items within groups and calculate running totals, which are essential for sales leaderboards and financial trend analysis.
 
+### 🗓️ Day 11: Multi-Table Joins & Self-Referencing Logic
+* **Goal:** Linking separate tables to create a unified data view.
+* **Key Commands:** `FULL OUTER JOIN`, `CROSS JOIN`, `SELF JOIN`.
+* **Takeaway:** Learned how to bridge data gaps between tables and how to compare rows within the same table to find peer relationships.
+
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL / MySQL
 * **Tools:** VS Code, Git
